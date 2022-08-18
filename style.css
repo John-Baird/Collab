@@ -18,3 +18,17 @@ ul {
 .berry{
     width: 500px;
 }
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: blueviolet;
+}
+h2 > a{
+    text-decoration: none;
+    color: white;
+}
+
+h2>a:hover{
+    border-bottom: 2px solid white;
+}
