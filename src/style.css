@@ -4,6 +4,8 @@ body{
     margin-right: 25%;
     color: blueviolet;
 	background: #282a36;
+    font-family: papyrus;
+    background-color: gray;
 }
 
 h1 {
@@ -18,12 +20,10 @@ ul {
 .berry{
     width: 500px;
 }
-body{
-    font-family: papyrus;
-    background-color: gray;
-}
+
 h1{
     color:black;
+    color: #50fa7b;
 }
 h3{
     color:red;
@@ -39,25 +39,6 @@ p{
 #main-footer{
     text-align: center;
     font-size:18px;
-}body{
-    font-family: sans-serif;
-    margin-left: 25%;
-    margin-right: 25%;
-    color: blueviolet;
-	background: #282a36;
-}
-
-h1 {
-	color: #50fa7b;
-}
-
-ul {
-	color: #bd93f9;
-	font-size: 3px;
-}
-
-.berry{
-    width: 500px;
 }
 
 nav{
