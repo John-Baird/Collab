@@ -1,9 +1,19 @@
 body{
-    background-color: cyan;
+    font-family: papyrus;
+    background-color: gray;
 }
 h1{
-    color:black
+    color:black;
 }
 p{
     color:red;
+}
+#main-header{
+    text-align:center;
+    color:white;
+    padding:10px;
+}
+#main-footer{
+    text-align: center;
+    font-size:18px;
 }
