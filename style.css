@@ -1,4 +1,9 @@
 body{
     font-family: sans-serif;
     color: blueviolet;
+	background: #282a36;
+}
+
+h1 {
+	color: #50fa7b;
 }
