@@ -1,5 +1,9 @@
 body{
     font-family: sans-serif;
-    color: blueviolet;
-	font-size: 3px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.berry{
+    width: 500px;
 }
