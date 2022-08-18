@@ -1,0 +1,22 @@
+body{
+    font-family: papyrus;
+    background-color: gray;
+}
+h1{
+    color:black;
+}
+h3{
+    color:red;
+}
+p{
+    color:black;
+}
+#main-header{
+    text-align:center;
+    color:white;
+    padding:10px;
+}
+#main-footer{
+    text-align: center;
+    font-size:18px;
+}
