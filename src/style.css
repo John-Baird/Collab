@@ -5,8 +5,11 @@ body{
 h1{
     color:black;
 }
-p{
+h3{
     color:red;
+}
+p{
+    color:black;
 }
 #main-header{
     text-align:center;
