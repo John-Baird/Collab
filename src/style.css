@@ -1,4 +1,24 @@
 body{
+    font-family: sans-serif;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: blueviolet;
+	background: #282a36;
+}
+
+h1 {
+	color: #50fa7b;
+}
+
+ul {
+	color: #bd93f9;
+	font-size: 3px;
+}
+
+.berry{
+    width: 500px;
+}
+body{
     font-family: papyrus;
     background-color: gray;
 }
